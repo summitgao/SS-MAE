@@ -1,5 +1,7 @@
 ## SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification
 
+If you have any questions, please contact us. Email: linjyan00@163.com, gaofeng@ouc.edu.cn
+
 ## Dataset
 https://drive.google.com/file/d/1iZEIAVhlt2QJb_RECp0bHFVN7C8po8ag/view?usp=sharing
 
