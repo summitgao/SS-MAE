@@ -1,4 +1,11 @@
-## SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification
+## 📖 SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification (IEEE TGRS 2023)
+
+[![ARXIV](https://img.shields.io/badge/Paper-ARIXV-blue)](https://arxiv.org/abs/2311.04442)
+[![IEEE](https://img.shields.io/badge/Paper-IEEE%20TGRS-blue)](https://ieeexplore.ieee.org/document/10314566/)
+
+This code is for our paper "SS-MAE: Spatial-Spectral Masked Auto-Encoder for Mulit-Source Remote Sensing Image Classification (IEEE TGRS 2023)".
+
+🔥 We hope SS-MAE is helpful for your work. Thanks a lot for your attention.🔥
 
 If you have any questions, please contact us. Email: linjyan00@163.com, gaofeng@ouc.edu.cn
 
